@@ -3,9 +3,9 @@
 ## ℹ About
 
 * [zdiscord](README.md)
-* [Commands](about/commands.md)
+* [Commands](commands.md)
 
-## ⭐ Getting Started <a href="#start" id="start"></a>
+## Getting Started <a href="#start" id="start"></a>
 
 * [🤖 Create a discord bot](start/bot.md)
 * [🪛 Install zdiscord](start/install.md)
@@ -27,7 +27,7 @@
   * [Chat Not Showing](start/faq/chat-not-showing.md)
   * [Custom Chat](start/faq/custom-chat.md)
 
-## ℹ Information <a href="#info" id="info"></a>
+## Information <a href="#info" id="info"></a>
 
 * [👩⚖ License](info/license.md)
 * [📃 Change Log](info/changelog.md)
