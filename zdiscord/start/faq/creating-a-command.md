@@ -65,6 +65,45 @@ async run(interaction, args) {
 }
 ```
 
+<details>
+
+<summary>The final product</summary>
+
+```javascript
+module.exports = class cmd extends Command {
+    constructor(file) {
+        super("helloworld", file, {
+            description: "reply with Hello World.",
+            role: "mod",
+            options: [
+                {
+                    name: "name",
+                    description: "What is your name?",
+                    required: true, // true means this will be required
+                    type: djs.ApplicationCommandOptionType.String, // for text
+                },
+                {
+                    name: "age",
+                    description: "how old are you?",
+                    required: false, // false means this will be optional
+                    type: djs.ApplicationCommandOptionType.Integer, // for number only
+                },
+            ],
+        });
+    }
+
+    async run(interaction, args) {
+        let message = `Hello ${args.name}!`;
+        if (args.age) {
+            message += ` I see that you are ${args.age} years old.`;
+        }
+        return interaction.reply(message);
+    }
+};ja
+```
+
+</details>
+
 ### The results!
 
 If you followed along and did everything correctly, starting your bot you should now have a new command when you type `/` in discord like so:
