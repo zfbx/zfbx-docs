@@ -27,6 +27,7 @@
   * [Chat Not Showing](start/faq/chat-not-showing.md)
   * [Custom Chat](start/faq/custom-chat.md)
   * [No handler available for this interaction](start/faq/no-handler-available-for-this-interaction.md)
+  * [Creating a Command](start/faq/creating-a-command.md)
 
 ## Information <a href="#info" id="info"></a>
 
