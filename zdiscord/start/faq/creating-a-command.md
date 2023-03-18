@@ -99,7 +99,7 @@ module.exports = class cmd extends Command {
         }
         return interaction.reply(message);
     }
-};ja
+};
 ```
 
 </details>
