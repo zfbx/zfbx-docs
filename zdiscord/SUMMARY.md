@@ -8,7 +8,8 @@
 ## Getting Started <a href="#start" id="start"></a>
 
 * [🤖 Create a discord bot](start/bot.md)
-* [🪛 Install zdiscord](start/install.md)
+* [⭐ Install](start/install.md)
+* [🪛 Configure](start/config.md)
 * [🪝 Exports](start/exports/README.md)
   * [isRolePresent](start/exports/isrolepresent.md)
   * [getDiscordId](start/exports/getdiscordid.md)

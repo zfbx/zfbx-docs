@@ -2,7 +2,7 @@
 description: The basic steps required to install zdiscord into your fivem/redm server
 ---
 
-# 🪛 Install zdiscord
+# ⭐ Install
 
 ### Requirements
 
