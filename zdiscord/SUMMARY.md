@@ -28,6 +28,7 @@
   * [Custom Chat](start/faq/custom-chat.md)
   * [No handler available for this interaction](start/faq/no-handler-available-for-this-interaction.md)
   * [Creating a Command](start/faq/creating-a-command.md)
+  * [Change Command Permissions](start/faq/change-command-permissions.md)
 
 ## Information <a href="#info" id="info"></a>
 
